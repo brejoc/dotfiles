@@ -1,4 +1,7 @@
-" vim-plug
+" vim-plug ➡️ https://github.com/junegunn/vim-plug
+" Usage: 1. First install vim-plug.
+"        2. Place .vimrc in $HOME.
+"        3. Run `:PlugInstall` in vim.
 call plug#begin()
 Plug 'Shougo/unite.vim'
 Plug 'tpope/vim-sensible'

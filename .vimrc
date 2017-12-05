@@ -17,6 +17,9 @@ set t_Co=256
 " enable syntax highlighting
 syntax enable
 
+" highlight all search results
+set hlsearch
+
 filetype on
 
 " show line numbers

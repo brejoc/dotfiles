@@ -17,6 +17,11 @@ set t_Co=256
 " enable syntax highlighting
 syntax enable
 
+" searching with uppercase will be case sensitive and
+" seraching lowercase will be case insensitive
+set ignorecase
+set smartcase
+
 " highlight all search results
 set hlsearch
 

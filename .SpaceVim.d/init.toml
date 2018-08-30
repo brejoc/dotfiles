@@ -50,3 +50,6 @@ name = "VersionControl"
 [[layers]]
 name = "ui"
 
+[[layers]]
+name = "ctrlp"
+
